@@ -1,10 +1,9 @@
-# Aplicación "Feliz Cumple" - Código de la solución - Texto e Imagen
+# Aplicación "Articulo Compose" - Código de la solución.
 
 ## Descripción
 
 Este proyecto contiene dos ejercicios:
-- Mostrar un **Texto** usando Jetpack Compose.
-- Mostrar una **Imagen** desde recursos (`res/drawable`).
+- Creacion de una pantalla para la app, que mostrará un instructivo para Jetpack Compose..
   
 ## Pre-requisitos
 --------------
@@ -17,4 +16,4 @@ Ninguno
 ## Cómo ejecutar
 1. Abrir el proyecto en Android Studio.
 2. Compilar y ejecutar en un emulador con API 31.
-3. Verás un texto "¡!" y una imagen.
+3. Verás un artículo con texto y una imagen de encabezado.
