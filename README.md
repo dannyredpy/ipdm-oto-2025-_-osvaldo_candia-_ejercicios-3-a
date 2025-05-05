@@ -11,7 +11,7 @@ Ninguno
 
 ## Capturas de pantalla
 
-![Imagen con texto en pantalla](https://raw.githubusercontent.com/dannyredpy/ipdm-oto-2025-_-osvaldo_candia-_ejercicios-3-a/refs/heads/main/Image2.jpeg)
+![Imagen con texto en pantalla](https://github.com/dannyredpy/ipdm-oto-2025-_-osvaldo_candia-_ejercicios-3-a/blob/main/image2.jpeg?raw=true)
 
 ## Cómo ejecutar
 1. Abrir el proyecto en Android Studio.
