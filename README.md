@@ -2,8 +2,8 @@
 
 ## Descripción
 
-Este proyecto contiene dos ejercicios:
-- Creacion de una pantalla para la app, que mostrará un instructivo para Jetpack Compose..
+Este proyecto contiene:
+- La creacion de una pantalla para la app, que mostrará un instructivo para Jetpack Compose..
   
 ## Pre-requisitos
 --------------
